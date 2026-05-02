@@ -8,7 +8,6 @@ my_dict = {
 print(my_dict)
 print(type(my_dict))
 
-
 # Practice Task 02: You are given a list of subjects for students.Assume one classroom is required for 1 subject.How many classrooms are needed by all students.
 subjects = {
     "python",
