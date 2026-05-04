@@ -34,7 +34,7 @@ def check_for_word():
 check_for_word()
 
 
-# # Practice Task 02: Write a Function to find in which line of the file does the word "learning" occur first. (Print -1 if word not found.)
+# Practice Task 02: Write a Function to find in which line of the file does the word "learning" occur first. (Print -1 if word not found.)
 with open("practice2.txt", "w") as o:
     o.write("2,3,4,5,6,7,8")
 
@@ -51,7 +51,7 @@ def find_learning():
 
 find_learning()
 
-# # From a file containing numbers separated by comma,print the count of even numbers.
+# From a file containing numbers separated by comma,print the count of even numbers.
 count = 0
 with open("practice2.txt", "r") as n:
     m = n.read()
